@@ -141,7 +141,7 @@
 
 
             <li class="nav-item">
-                <a class="nav-link collapsed" href="pages-blank.html">
+                <a class="nav-link collapsed" href="logout.php">
                     <i class="bi bi-file-earmark"></i>
                     <span>Keluar</span>
                 </a>
