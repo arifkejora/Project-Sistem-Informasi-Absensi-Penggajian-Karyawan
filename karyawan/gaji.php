@@ -11,7 +11,7 @@ include ("koneksi.php");
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Dashboard Admin</title>
+    <title>Gaji</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -81,7 +81,7 @@ include ("koneksi.php");
         <ul class="sidebar-nav" id="sidebar-nav">
 
             <li class="nav-item">
-                <a class="nav-link " href="index.php">
+                <a class="nav-link " href="adm-index.php">
                     <i class="bi bi-grid"></i>
                     <span>Dashboard</span>
                 </a>

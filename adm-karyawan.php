@@ -352,7 +352,7 @@
                 <div class="col-lg-12">
                     <div class="card">
                     <div class="card-body">
-                            <h5 class="card-title">Akun Karyawan</h5>
+                            <h5 class="card-title">Ganti Password Akun Karyawan</h5>
 
                             <form action="pass_up.php" method="post">
                                 <div class="row mb-3">
